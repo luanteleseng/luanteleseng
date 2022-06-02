@@ -1,4 +1,4 @@
-## Olá, Me chamo Luan!
+## Olá, sou Luan!
 
 Entusiasta das áreas de _engenharia de dados e de machine learning_, buscando sempre aprender cada vez mais. 
 
